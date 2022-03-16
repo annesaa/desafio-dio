@@ -1,5 +1,5 @@
 # Repositório desafios-dio
-Repositório criado para postar todos os desafios realizados durante o projeto.
+Repositório criado para o desafio dio.
 
 ## Links úteis:
-[Sintaxe básica markdown](https://www.markdownguide.org/)
+[Markdown](https://www.markdownguide.org/)
